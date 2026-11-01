@@ -13,7 +13,7 @@
   <a href="https://noricap.com"><img src="https://noricap.com/img-cash-hero.webp" width="860" alt="Nori's 13-week cash forecast for a sample company, with the minimum cash line in red"></a>
 </p>
 
-Nori reads your QuickBooks Online or Xero books (or an export from any accounting system) and does the work a CFO would:
+Nori reads your QuickBooks® Online or Xero books (or an export from any accounting system) and does the work a CFO would:
 
 - **13-week cash forecast.** When customers will actually pay, which bills fall due, your regular payments, plus the loans, owner withdrawals and taxes your profit and loss doesn't show. A warning before cash drops below your minimum.
 - **Issues sized in dollars.** Slow-paying customers, suppliers raising prices faster than revenue, possible duplicate payments, subscriptions to review, each linked to the transactions behind it.
@@ -22,8 +22,8 @@ Nori reads your QuickBooks Online or Xero books (or an export from any accountin
 
 **Read-only by design.** Nori never posts, edits or deletes anything in your books, and never moves money.
 
-**Pricing:** $199 a month per company after a 7-day free trial. Accountants and advisors: $129 per client company a month (minimum 5).
+**Pricing:** $199 a month per company after a 7-day free trial. Accountants and advisors with 5 or more client companies: [ask about partner pricing](mailto:pa@noricap.com).
 
 ---
 
-<sub>Nori is made by Nori Capital LLC (d/b/a Nori Cap), New York. Analysis, not tax, legal or investment advice.</sub>
+<sub>Nori is made by Nori Capital LLC (d/b/a Nori Cap), New York. Analysis, not tax, legal or investment advice. QuickBooks is a registered trademark of Intuit Inc. Xero is a trademark of Xero Limited. Nori is not affiliated with or endorsed by Intuit or Xero.</sub>
